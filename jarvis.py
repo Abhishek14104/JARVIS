@@ -18,7 +18,7 @@ engine = pyttsx3.init()
 newsApi = "https://newsapi.org/v2/top-headlines?country=us&apiKey=a855e1f4c89c47408ef85a31712eee5c"
 
 EMAIL_ADDRESS = 'pythontesting14104@gmail.com'
-EMAIL_PASSWORD = 'hwnj nqjr wbrl yiqb'
+EMAIL_PASSWORD = 'type your app password'
 
 def speak(text):
     engine.say(text)
